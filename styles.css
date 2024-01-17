@@ -379,7 +379,7 @@ nav .nav-item-container {
     gap: 3px;  
     width: 100%;
     border-radius: 10px;
-    background: url("../images/Group 39.png"), lightgray 50%;
+    background: url("./Images/Group 39.png"), lightgray 50%;
     background-size: cover;
     background-repeat: no-repeat;
     height: 500px;
